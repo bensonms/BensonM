@@ -1,6 +1,6 @@
 {
   "name": "bensonm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Personal repository for various projects and experiments",
   "main": "index.js",
   "scripts": {
